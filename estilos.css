@@ -173,8 +173,8 @@ main section {
   -webkit-text-fill-color: transparent; /* Torna a cor original transparente */
   animation: degrade-animation 15s ease infinite; /* Animação */
 margin-bottom: 0%;
-margin-top: 0vw;
-margin-left: 15vw;
+margin-top: 2vw;
+margin-left: 1vw;
 margin-right: 1%;
 width: 100%;
 }
