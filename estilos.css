@@ -163,7 +163,7 @@ main section {
 
 .gradient-text {
   font-family: Garamond;
-  font-size: 10vw;
+  font-size: 5vw;
   text-align: center;
   color: #440505;
   background: linear-gradient(98.54deg, blue 25%, yellow 37%, lightgray 38%, green 65%, darkred 5%);
